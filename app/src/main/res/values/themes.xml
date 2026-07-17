@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.NetFare" parent="Theme.MaterialComponents.DayNight.NoActionBar" />
+</resources>

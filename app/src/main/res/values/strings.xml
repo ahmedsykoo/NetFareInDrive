@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NetFare InDrive</string>
+    <string name="commission_label">نسبة عمولة الشركة (%)</string>
+    <string name="enable_accessibility">تفعيل خدمة قراءة الشاشة</string>
+    <string name="enable_overlay">تفعيل صلاحية الظهور فوق التطبيقات</string>
+    <string name="save">حفظ</string>
+    <string name="status_off">الخدمة غير مفعلة</string>
+    <string name="status_on">الخدمة تعمل الآن</string>
+</resources>

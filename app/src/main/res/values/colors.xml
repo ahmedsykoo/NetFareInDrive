@@ -1,0 +1,5 @@
+<resources>
+    <color name="badge_bg">#DD1B1B1B</color>
+    <color name="badge_text">#FFFFFF</color>
+    <color name="accent">#00C853</color>
+</resources>
